@@ -14,7 +14,7 @@ Software Engineering @ **Polytechnique Montréal** — specialization in **AI & 
 
 ## Tech
 - **Languages:** Python, C++
-- **Tools:** Git / GitHub, VS Code, Linux (Omarchy)
+- **Tools:** Git / GitHub & Gitlab, VS Code, Linux (Omarchy)
 
 ## Let’s connect
 - GitHub: https://github.com/arzaa-cali

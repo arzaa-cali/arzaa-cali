@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Aris 👋
 
-<!--
-**arzaa-cali/arzaa-cali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student @ **Polytechnique Montréal (PolyMTL)** — specialization in **AI & Data Science**.
 
-Here are some ideas to get you started:
+## About me
+- 🧠 Interests: **AI**, building practical software from scratch
+- 💻 Languages: **Python**, **C++**
+- 🏋️ Outside of code: **calisthenics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I like working on
+- 🤖 ML/AI projects (learning + experimenting)
+- 🛠️ Tools, automations, and clean code
+- 📈 Data-driven features and analytics
+
+## Tech
+- **Languages:** Python, C++
+- **Tools:** Git / GitHub, VS Code, Linux (Omarchy)
+
+## Let’s connect
+- GitHub: https://github.com/arzaa-cali
+- LinkedIn: https://www.linkedin.com/in/aris-zaatri/
+- Email: az.poly2024@gmail.com

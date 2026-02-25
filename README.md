@@ -1,9 +1,9 @@
 # Hi, I'm Aris 👋
 
-Software Engineering student @ **Polytechnique Montréal (PolyMTL)** — specialization in **AI & Data Science**.
+Software Engineering @ **Polytechnique Montréal** — specialization in **AI & Data Science**.
 
 ## About me
-- 🧠 Interests: **AI**, building practical software from scratch
+- 🧠 Interests: **AI**, building practical software from **scratch**
 - 💻 Languages: **Python**, **C++**
 - 🏋️ Outside of code: **calisthenics**
 

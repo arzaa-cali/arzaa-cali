@@ -18,5 +18,7 @@ Software Engineering @ **Polytechnique Montréal** — specialization in **AI & 
 
 ## Let’s connect
 - GitHub: https://github.com/arzaa-cali
+- Gitlab: https://gitlab.com/Arzaa
+- Devpost: https://devpost.com/arzaa
 - LinkedIn: https://www.linkedin.com/in/aris-zaatri/
 - Email: az.poly2024@gmail.com

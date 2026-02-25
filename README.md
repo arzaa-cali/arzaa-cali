@@ -10,7 +10,8 @@ Software Engineering @ **Polytechnique Montréal** — specialization in **AI & 
 ## What I like working on
 - 🤖 ML/AI projects (learning + experimenting)
 - 🛠️ Tools, automations, and clean code
-- 📈 Data-driven features and analytics
+- 🚀 Learning anything new that pushes me out of my comfort zone
+
 
 ## Tech
 - **Languages:** Python, C++

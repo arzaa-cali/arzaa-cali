@@ -8,7 +8,6 @@ Software Engineering @ **Polytechnique Montréal** — specialization in **AI & 
 - 🏋️ Outside of code: **calisthenics**
 
 ## What I like working on
-- 🤖 ML/AI projects (learning + experimenting)
 - 🛠️ Tools, automations, and clean code
 - 🚀 Learning anything new that pushes me out of my comfort zone
 

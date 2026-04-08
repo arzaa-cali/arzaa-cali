@@ -4,7 +4,7 @@ Software Engineering @ **Polytechnique Montréal** — specialization in **AI & 
 
 ## About me
 - 🧠 Interests: **AI**
-- 💻 Languages: **Python**, **C++**
+- 💻 Languages: **C++**, **Python**
 - 🏋️ Outside of code: **calisthenics**
 
 ## What I like working on
@@ -13,7 +13,7 @@ Software Engineering @ **Polytechnique Montréal** — specialization in **AI & 
 
 
 ## Tech
-- **Languages:** Python, C++
+- **Languages:** C++, Python
 - **Tools:** Git / GitHub & Gitlab, VS Code, Linux (Omarchy)
 
 ## Let’s connect

@@ -20,4 +20,4 @@ Software Engineering Student @ **Polytechnique Montréal** — specialization in
 - Gitlab: https://gitlab.com/Arzaa
 - Devpost: https://devpost.com/arzaa
 - LinkedIn: https://www.linkedin.com/in/aris-zaatri/
-- Email: az.poly2024@gmail.com
+- Email: zaatri.aris@gmail.com

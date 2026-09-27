@@ -13,7 +13,7 @@ Software Engineering Student @ **Polytechnique Montréal**
 
 ## Tech
 - **Languages:** C++
-- **Tools:** Git / GitHub & Gitlab, VS Code, Linux (Omarchy)
+- **Tools:** Git / GitHub & Gitlab, VS Code, Linux
 
 ## Let’s connect
 - GitHub: https://github.com/arzaa-cali

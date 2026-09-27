@@ -3,9 +3,8 @@
 Software Engineering Student @ **Polytechnique Montréal** — specialization in **AI & Data Science**.
 
 ## About me
-- 🧠 Interests: **AI**
-- 💻 Languages: **C++**, **Python**
-- 🏋️ Outside of code: **calisthenics**
+- 💻 Languages: **C++**
+- 🏋️ Outside of code: **static calisthenics**
 
 ## What I like working on
 - 🚀 Learning anything new that pushes me out of my comfort zone
@@ -13,7 +12,7 @@ Software Engineering Student @ **Polytechnique Montréal** — specialization in
 
 
 ## Tech
-- **Languages:** C++, Python
+- **Languages:** C++
 - **Tools:** Git / GitHub & Gitlab, VS Code, Linux (Omarchy)
 
 ## Let’s connect

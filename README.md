@@ -1,6 +1,6 @@
 # Hi, I'm Aris 👋
 
-Software Engineering Student @ **Polytechnique Montréal** — specialization in **AI & Data Science**.
+Software Engineering Student @ **Polytechnique Montréal** 
 
 ## About me
 - 💻 Languages: **C++**
